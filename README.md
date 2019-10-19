@@ -31,11 +31,11 @@ The AI Therapist is designed for people suffering with mental health disorders l
 SyMole.ai 
 ## Prequisites
 
-## INSTALLATION
+## Installation
 
 ### Setting up our two services :computer: :
 
-#### FOR HEART DISEASE PREDICTOR ( SyMole.ai CardioNosis ) :-
+#### FOR HEART DISEASE PREDICTOR ( SyMole.ai CardioNosis :heart: ) :-
 
 
 
