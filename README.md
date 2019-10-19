@@ -11,7 +11,7 @@ NOTE :  We recommend our users to read this particular documentation to be able 
 ## Description 
 
 This is a suite of __two__ Health Services. A **Heart Disease Predictor, CardioNosis** and an **AI Therapist, Nikola**. We believe that health and well-being are primarily the most important components of life. 
-Cardiovascular Diseases account to about 24.8% of deaths per year in India. The Heart Disease Predictor would provide such information which,if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
+Cardiovascular Diseases account to about 24.8% of deaths per year in India, which if predicted at early stages could decrease the Mortality Rate of the country. The Heart Disease Predictor would provide such information which,if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
 The AI Therapist is designed for people suffering with mental health disorders like clinical depression, stress, anxiety, etc. These Mental Health disorders account to about 3% of total deaths per year in India and is increasing at a staggering rate lately. Currently there is no official government organisation providing suicide prevention helpline in India and what there exists are a number of NGO Helplines which in most cases prove to be dysfunctional and lack proper monetary funds for a proper working. The open-source AI Therapist is designed in a way that people can encounter a friendly interaction with Artificial Intelligence. This would be a small step towards the advancement in human-AI relationship and hopefully would also help people who are going through these miserable conditions.
 
 
@@ -45,7 +45,7 @@ CardioNosis is aHeart Disease Predictor which will provide patient analysis and 
 ## Prerequisites
 There are absolutely no prerequisites for the Nikola AI service.
 
-As for the CardioNosis, the user requires to know how to use Python executable files. Basic knowledge of Python would be highly useful though. A good start for learning python is [learnpython.org](https://www.learnpython.org/)
+As for the CardioNosis, the user requires to know how to use Python executable files. Basic knowledge of Python would be highly useful though. A good start for learning python is [learnpython.org](https://www.learnpython.org/).
 
 ## Installation
 
