@@ -1,5 +1,5 @@
 # SyMole.ai
-## PRESENTED BY:
+## Presented By:
 
 **ARTH TYAGI** ( TEAM LEADER, CEO AND ML ENGINEER [@arthtyagi](https://github.com/arthtyagi) )
 
@@ -42,19 +42,18 @@ with general emotional support and consolation.
 
 ### Setting up our two services :computer: :
 
-#### FOR HEART DISEASE PREDICTOR ( SyMole.ai CardioNosis :heart: ) :-
+#### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
 
 
 
 
-#### FOR AI THERAPIST ( Symole.ai Nikola :zap: ) :-
+#### For AI Therapist ( Symole.ai Nikola :zap: ) :-
 
-#### DEPENDENCIES
+## Dependencies
+* https://github.com/thinkroth/Sentimental
 
-## Citation
+* https://github.com/soops/sentimood
 
-https://github.com/thinkroth/Sentimental
-https://github.com/soops/sentimood
+* https://www.kaggle.com/ronitf/heart-disease-uci
 
-https://www.kaggle.com/ronitf/heart-disease-uci
-https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
+* https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
