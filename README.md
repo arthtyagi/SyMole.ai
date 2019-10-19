@@ -67,7 +67,4 @@ You can watch the video tutorial to use our Python executable file.
 * https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
 
 ## Licenses
-* [MIT License](https://opensource.org/licenses/mit-license.php)
-
-## For more projects, make sure to check out this github profile: 
-[@arthtyagi](https://github.com/arthtyagi)
+ [MIT License](https://opensource.org/licenses/mit-license.php)
