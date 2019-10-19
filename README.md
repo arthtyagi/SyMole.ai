@@ -32,7 +32,7 @@ The AI Therapist is designed for people suffering with mental health disorders l
 
 ## What does SyMole.ai do?
 SyMole.ai consists of two applications.
-#####CardioNosis
+##### CardioNosis
 Nikola is going to provide counselling to people :
 * In Anxiety
 * In Narcissist Personality Disorder
