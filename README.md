@@ -26,12 +26,12 @@ SyMole.ai
 
 ## INSTALLATION
 
-### Setting up our two services: :+1:
+### Setting up our two services :computer: :
 
-#### FOR HEART DISEASE PREDICTOR ( SyMole.ai CardioNosis )
-
-
+#### FOR HEART DISEASE PREDICTOR ( SyMole.ai CardioNosis ) :-
 
 
-#### FOR AI THERAPIST ( Symole.ai Nikola :zap: )
+
+
+#### FOR AI THERAPIST ( Symole.ai Nikola :zap: ) :-
 
