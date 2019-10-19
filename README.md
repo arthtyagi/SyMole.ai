@@ -65,9 +65,6 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 
 
 ## Dependencies
-* https://github.com/thinkroth/Sentimental
-
-* https://github.com/soops/sentimood
 
 * https://www.kaggle.com/ronitf/heart-disease-uci
 
