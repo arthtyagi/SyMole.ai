@@ -1,4 +1,9 @@
 # SyMole.ai
+PRESENTED BY:
+
+**ARTH TYAGI** ( TEAM LEADER, CEO AND ML ENGINEER @arthtyagi )
+**PRANAV DHAWAN** ( STERNOGRAPHER @pranavdhawan)
+**SIDDHARTH NIKHIL** ( UI DESIGNER )
 ## Description 
 
 This is a suite of __two__ Health Services. A **Heart Disease Predictor** and an AI Therapist. We believe that health and well-being are primarily the most important components of life. 
