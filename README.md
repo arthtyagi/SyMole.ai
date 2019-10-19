@@ -42,7 +42,7 @@ with general emotional support and consolation.
 ## Prerequisites
 There are absolutely no prerequisites for the Nikola AI service.
 
-As for the CardioNosis, the user requires to know how to use Python executable files. Basic knowledge of Python would be highly useful though.
+As for the CardioNosis, the user requires to know how to use Python executable files. Basic knowledge of Python would be highly useful though. A good start for learning python is [learnpython.org](https://www.learnpython.org/)
 
 ## Installation
 
