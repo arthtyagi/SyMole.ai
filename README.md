@@ -1,11 +1,11 @@
 # SyMole.ai
-PRESENTED BY:
+## PRESENTED BY:
 
 **ARTH TYAGI** ( TEAM LEADER, CEO AND ML ENGINEER [@arthtyagi](https://github.com/arthtyagi) )
 
 **PRANAV DHAWAN** ( STERNOGRAPHER [@pranavdhawan](https://github.com/pranavdhawan))
 
-**SIDDHARTH NIKHIL** ( UI DESIGNER )
+**SIDDHARTH NIKHIL** ( UI DESIGNER (https://www.deviantart.com/siddkid) )
 ## Description 
 
 This is a suite of __two__ Health Services. A **Heart Disease Predictor, CardioNosis** and an **AI Therapist, Nikola**. We believe that health and well-being are primarily the most important components of life. 
@@ -28,7 +28,14 @@ The AI Therapist is designed for people suffering with mental health disorders l
 * thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 ## What does SyMole.ai do?
-SyMole.ai 
+SyMole.ai consists of two applications.
+CardioNosis
+Nikola is going to provide counselling to people :
+* In Anxiety
+* In Narcissist Personality Disorder
+* In Depression
+* With bad communication skills but the will to improve them.
+with general emotional support and consolation. 
 ## Prequisites
 
 ## Installation
@@ -42,3 +49,12 @@ SyMole.ai
 
 #### FOR AI THERAPIST ( Symole.ai Nikola :zap: ) :-
 
+#### DEPENDENCIES
+
+## Citation
+
+https://github.com/thinkroth/Sentimental
+https://github.com/soops/sentimood
+
+https://www.kaggle.com/ronitf/heart-disease-uci
+https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
