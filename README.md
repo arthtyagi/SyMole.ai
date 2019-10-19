@@ -2,11 +2,11 @@
 NOTE :  We recommend our users to read this particular documentation to be able to use our services more efficiently.
 ## Presented By:
 
-**Arth Tyagi** ( Team Leader, CEO And ML Engineer [@arthtyagi](https://github.com/arthtyagi) )
+* **Arth Tyagi** ( Team Leader, CEO And ML Engineer [@arthtyagi](https://github.com/arthtyagi) )
 
-**Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan))
+* **Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan))
 
-**Siddharth Nikhil** ( UI Designer [Deviant Art Profile](https://www.deviantart.com/siddkid) )
+* **Siddharth Nikhil** ( UI Designer [Deviant Art Profile](https://www.deviantart.com/siddkid) )
 
 ## Description 
 
@@ -68,4 +68,4 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 * https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
 
 ## Licenses
- [MIT License](https://opensource.org/licenses/mit-license.php)
+* [MIT License](https://opensource.org/licenses/mit-license.php)
