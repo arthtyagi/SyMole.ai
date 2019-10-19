@@ -14,7 +14,19 @@ This is a suite of __two__ Health Services. A **Heart Disease Predictor, CardioN
 Cardiovascular Diseases account to about 24.8% of deaths per year in India. The Heart Disease Predictor would provide such information which,if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
 The AI Therapist is designed for people suffering with mental health disorders like clinical depression, stress, anxiety, etc. These Mental Health disorders account to about 3% of total deaths per year in India and is increasing at a staggering rate lately. Currently there is no official government organisation providing suicide prevention helpline in India and what there exists are a number of NGO Helplines which in most cases prove to be dysfunctional and lack proper monetary funds for a proper working. The open-source AI Therapist is designed in a way that people can encounter a friendly interaction with Artificial Intelligence. This would be a small step towards the advancement in human-AI relationship and hopefully would also help people who are going through these miserable conditions.
 
-## Attribute Information for Heart Disease Predictor
+
+## What does SyMole.ai do?
+SyMole.ai consists of two applications.
+### Nikola
+Nikola, an AI Therapist is an essential part of this project and  is going to provide counselling to people :
+* In Anxiety
+* In Narcissist Personality Disorder
+* In Depression
+* With bad communication skills but the will to improve them
+with general emotional support and consolation. 
+### CardioNosis
+CardioNosis is a Python Executable file which will be using Machine Learning to make predictions on whether a person is suffering from Heart Disease or not. The ML Model will recieve information of the patient like Age, Sex, Max. Heart Rate, Serum Cholestrol, and various other attributes ([see below]()) and analyze the data to conclude results via __RandomForestClassifier__, one of the most sophisticated Machine Learning algorithms.
+#### Attribute Information for Heart Disease Predictor
 * Age : displays the age of the individual.
 * Sex : displays the gender of the individual using the following format : 1 = male 0 = female.
 * Chest-pain type : displays the type of chest-pain experienced by the individual using the following format : 1 = typical angina 2 = atypical angina 3 = non - anginal pain 4 = asymptotic
@@ -30,17 +42,6 @@ The AI Therapist is designed for people suffering with mental health disorders l
 * Thal : displays the thalassemia : 3 = normal 6 = fixed defect 7 = reversable defect
 * Diagnosis of heart disease : Displays whether the individual is suffering from heart disease or not : __0 = absence 1,2,3,4 = present.__
 
-## What does SyMole.ai do?
-SyMole.ai consists of two applications.
-### Nikola
-Nikola, an AI Therapist is an essential part of this project and  is going to provide counselling to people :
-* In Anxiety
-* In Narcissist Personality Disorder
-* In Depression
-* With bad communication skills but the will to improve them
-with general emotional support and consolation. 
-### CardioNosis
-CardioNosis is a Python Executable file which will be using Machine Learning to make predictions on whether a person is suffering from Heart Disease or not. The ML Model will recieve information of the patient like Age, Sex, Max. Heart Rate, Serum Cholestrol etc. and analyze the data to conclude results via __RandomForestClassifier__, one of the most sophisticated Machine Learning algorithms.
 ## Prerequisites
 There are absolutely no prerequisites for the Nikola AI service.
 
