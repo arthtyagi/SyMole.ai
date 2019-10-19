@@ -1,4 +1,9 @@
 # SyMole.ai
+## Description 
 
+This is a suite of two Health Services. A Heart Disease Classifier and an AI Therapist. We believe that health and well-being are primarily the most important components of life. 
+Cardiovascular Diseases account to about 24.8% of deaths per year in India. The Heart Disease Classifier would provide such information which,if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
+[dfwwd]
 ## What does SyMole.ai do?
-this is a pre-written (by the satan) simulation change which implements in your life when things are ACTUALLY going well. This SyMole.ai will carry out a minimal butterfly effect originating from a stupid lame ass move and will eventualy ive rise to the Fuckening. Things will start going wrong from a small move and you will be definetely convinced to believe that every good thing is supposed to lead to a FUCKENING
+## Prequisites
+This 
