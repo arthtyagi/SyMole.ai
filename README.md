@@ -1,8 +1,10 @@
 # SyMole.ai
 PRESENTED BY:
 
-**ARTH TYAGI** ( TEAM LEADER, CEO AND ML ENGINEER @arthtyagi )
-**PRANAV DHAWAN** ( STERNOGRAPHER @pranavdhawan)
+**ARTH TYAGI** ( TEAM LEADER, CEO AND ML ENGINEER [@arthtyagi](https://github.com/arthtyagi) )
+
+**PRANAV DHAWAN** ( STERNOGRAPHER [@pranavdhawan](https://github.com/pranavdhawan))
+
 **SIDDHARTH NIKHIL** ( UI DESIGNER )
 ## Description 
 
