@@ -6,7 +6,7 @@ NOTE :  We recommend our users to read this particular documentation to be able 
 
 **Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan))
 
-**Siddharth Nikhil** ( UI Designer (https://www.deviantart.com/siddkid) )
+**Siddharth Nikhil** ( UI Designer [Deviant Art Profile](https://www.deviantart.com/siddkid) )
 
 ## Description 
 
