@@ -1,4 +1,5 @@
 # SyMole.ai
+NOTE :  We recommend our users to read this particular documentation to be able to use our services more efficiently.
 ## Presented By:
 
 **Arth Tyagi** ( Team Leader, CEO And ML Engineer [@arthtyagi](https://github.com/arthtyagi) )
@@ -11,7 +12,7 @@
 
 This is a suite of __two__ Health Services. A **Heart Disease Predictor, CardioNosis** and an **AI Therapist, Nikola**. We believe that health and well-being are primarily the most important components of life. 
 Cardiovascular Diseases account to about 24.8% of deaths per year in India. The Heart Disease Predictor would provide such information which,if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
-The AI Therapist is designed for people suffering with mental health disorders like clinical depression, stress, anxiety, etc. These Mental Health disorders account to about 3% of total deaths per year in India and is increasing at a staggering rate lately. Currently there is no official government organisation providing suicide prevention helpline in India and what there exists are a number of NGO Helplines which in most cases prove to be dysfunctional and lack proper monetary funds for a proper working. The open-source AI Therapist is designed in a way that people can encounter a friendly interaction with Artificial Intelligence. This would be a small step towards the advancement in human-AI relationship and hopefully would also help people  who are going through these miserable conditions.
+The AI Therapist is designed for people suffering with mental health disorders like clinical depression, stress, anxiety, etc. These Mental Health disorders account to about 3% of total deaths per year in India and is increasing at a staggering rate lately. Currently there is no official government organisation providing suicide prevention helpline in India and what there exists are a number of NGO Helplines which in most cases prove to be dysfunctional and lack proper monetary funds for a proper working. The open-source AI Therapist is designed in a way that people can encounter a friendly interaction with Artificial Intelligence. This would be a small step towards the advancement in human-AI relationship and hopefully would also help people who are going through these miserable conditions.
 
 ## Attribute Information for Heart Disease Predictor
 * Age
@@ -37,7 +38,10 @@ Nikola is going to provide counselling to people :
 * In Depression
 * With bad communication skills but the will to improve them.
 with general emotional support and consolation. 
-## Prequisites
+## Prerequisites
+There are absolutely no prerequisites for the Nikola AI service.
+
+As for the CardioNosis, the user requires to know how to use Python executable files. Basic knowledge of Python would be highly useful though.
 
 ## Installation
 
@@ -45,10 +49,13 @@ with general emotional support and consolation.
 
 #### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
 
+You can watch the video tutorial to use our Python executable file as well.
 
+##### YouTube link : 
 
 
 #### For AI Therapist ( Symole.ai Nikola :zap: ) :-
+
 
 ## Dependencies
 * https://github.com/thinkroth/Sentimental
