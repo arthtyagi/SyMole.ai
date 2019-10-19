@@ -58,3 +58,6 @@ with general emotional support and consolation.
 * https://www.kaggle.com/ronitf/heart-disease-uci
 
 * https://github.com/kb22/Heart-Disease-Prediction/blob/master/Heart%20Disease%20Prediction.ipynb
+
+## Licenses
+* [MIT License](https://opensource.org/licenses/mit-license.php)
