@@ -17,16 +17,16 @@ The AI Therapist is designed for people suffering with mental health disorders l
 
 ## What does SyMole.ai do?
 SyMole.ai consists of two applications.
-### Nikola
+ ### Nikola
 Nikola, an AI Therapist is an essential part of this project and  is going to provide counselling to people :
 * In Anxiety
 * In Narcissist Personality Disorder
 * In Depression
 * With bad communication skills but the will to improve them
 with general emotional support and consolation. 
-### CardioNosis
+ ### CardioNosis
 CardioNosis is aHeart Disease Predictor which will provide patient analysis and results of a heath condition test for cardiovascular diseases through the patient's [Health Data](https://github.com/pranavdhawan/SyMole.ai/blob/master/README.md#attribute-information-for-heart-disease-predictor). This will be in the format of a Python Executable file which will be using Machine Learning Algorithms to make predictions on whether a person is suffering from Heart Disease or not. The ML Model will recieve information of the patient like Age, Sex, Max. Heart Rate, Serum Cholestrol, and various other attributes and analyze the data to conclude results via __RandomForestClassifier__, one of the most sophisticated Machine Learning algorithms.
-#### Attribute Information for Heart Disease Predictor
+  #### Attribute Information for Heart Disease Predictor
 * Age : displays the age of the individual.
 * Sex : displays the gender of the individual using the following format : 1 = male 0 = female.
 * Chest-pain type : displays the type of chest-pain experienced by the individual using the following format : 1 = typical angina 2 = atypical angina 3 = non - anginal pain 4 = asymptotic
