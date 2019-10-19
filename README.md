@@ -37,7 +37,7 @@ Nikola is going to provide counselling to people :
 * In Anxiety
 * In Narcissist Personality Disorder
 * In Depression
-* With bad communication skills but the will to improve them.
+* With bad communication skills but the will to improve them
 with general emotional support and consolation. 
 ## Prerequisites
 There are absolutely no prerequisites for the Nikola AI service.
