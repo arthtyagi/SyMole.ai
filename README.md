@@ -1,11 +1,12 @@
 # SyMole.ai
 ## Presented By:
 
-**ARTH TYAGI** ( TEAM LEADER, CEO AND ML ENGINEER [@arthtyagi](https://github.com/arthtyagi) )
+**Arth Tyagi** ( Team Leader, CEO And ML Engineer [@arthtyagi](https://github.com/arthtyagi) )
 
-**PRANAV DHAWAN** ( STERNOGRAPHER [@pranavdhawan](https://github.com/pranavdhawan))
+**Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan))
 
-**SIDDHARTH NIKHIL** ( UI DESIGNER (https://www.deviantart.com/siddkid) )
+**Siddharth Nikhil** ( UI Designer (https://www.deviantart.com/siddkid) )
+
 ## Description 
 
 This is a suite of __two__ Health Services. A **Heart Disease Predictor, CardioNosis** and an **AI Therapist, Nikola**. We believe that health and well-being are primarily the most important components of life. 
