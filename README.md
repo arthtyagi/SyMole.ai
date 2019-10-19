@@ -19,7 +19,6 @@ Cardiovascular Diseases account to about 24.8% of deaths per year in India. The 
 * number of major vessels (0-3) colored by flourosopy
 * thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
-The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. One file has been "processed", that one containing the Cleveland database. All four unprocessed files also exist in this directory.
 ## What does SyMole.ai do?
 ## Prequisites
 This 
