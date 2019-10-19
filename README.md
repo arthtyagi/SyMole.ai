@@ -49,7 +49,7 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 
 #### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
 
-You can watch the video tutorial to use our Python executable file as well.
+You can watch the video tutorial to use our Python executable file.
 
 ##### YouTube link : 
 
@@ -68,3 +68,6 @@ You can watch the video tutorial to use our Python executable file as well.
 
 ## Licenses
 * [MIT License](https://opensource.org/licenses/mit-license.php)
+
+## For more projects, make sure to check out this github profile: 
+[@arthtyagi](https://github.com/arthtyagi)
