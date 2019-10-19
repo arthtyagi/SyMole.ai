@@ -4,7 +4,7 @@ NOTE :  We recommend our users to read this particular documentation to be able 
 
 * **Arth Tyagi** ( Team Leader, CEO And ML Engineer [@arthtyagi](https://github.com/arthtyagi) )
 
-* **Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan))
+* **Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan) )
 
 * **Siddharth Nikhil** ( UI Designer [Deviant Art Profile](https://www.deviantart.com/siddkid) )
 
