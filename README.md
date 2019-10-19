@@ -48,14 +48,14 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 
 ### Setting up our two services :computer: :
 
-#### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
+* #### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
+ 
+  You can watch the video tutorial to use our Python executable file.
 
-You can watch the video tutorial to use our Python executable file.
-
-##### YouTube link : 
+  ##### YouTube link : 
 
 
-#### For AI Therapist ( Symole.ai Nikola :zap: ) :-
+* #### For AI Therapist ( Symole.ai Nikola :zap: ) :-
 
 
 ## Dependencies
