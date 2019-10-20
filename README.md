@@ -62,7 +62,11 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 
 
 * #### For AI Therapist ( Symole.ai Nikola :zap: ) :-
+` git clone [link of this repository] `
 
+Now open the index.html file locally in your web browser.
+
+You will be pleased to meet Nikola, our psychotherapist AI whose final milestone would be to make the user content.
 
 ## Dependencies
 
