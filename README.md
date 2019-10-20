@@ -26,13 +26,34 @@ The AI Therapist is designed for people suffering with mental health disorders l
 ## What does SyMole.ai do?
 SyMole.ai consists of two applications.
 
-##### CardioNosis
+### Nikola
 Nikola is going to provide counselling to people :
 * In Anxiety
 * In Narcissist Personality Disorder
 * In Depression
 * With bad communication skills but the will to improve them
 with general emotional support and consolation. 
+
+### CardioNosis
+The heart disease predictor which will provide patient analysis and results of a health condition test for cardiovascular diseases through the patient's Health Data. This will be in the format of a Python Executable File. This Machine Learning Model will accept patient reports like Age, Sex, Max. Blood Pressure, etc.
+The Heart Disease Predictor is in a IPython Notebook format and will be using Machine Learning Algorithms to make predictions on whether a person is suffering from Heart Disease or not. The ML Model will receive information of the patient like Age, Sex, Max. Heart Rate, Serum Cholesterol, and various other attributes(given below) and analyze the data to conclude results via RandomForestClassifier, one of the most sophisticated Machine Learning algorithms.
+
+
+#### Attribute Information for Heart Disease Predictor
+* Age : displays the age of the individual.
+* Sex : displays the gender of the individual using the following format : 1 = male 0 = female.
+* Chest-pain type : displays the type of chest-pain experienced by the individual using the following format : 1 = typical angina 2 = atypical angina 3 = non - anginal pain 4 = asymptotic
+* Resting Blood Pressure : displays the resting blood pressure value of an individual in mmHg (unit)
+* Serum Cholestrol : displays the serum cholestrol in mg/dl (unit)
+* Fasting Blood Sugar : compares the fasting blood sugar value of an individual with 120mg/dl. If fasting blood sugar > 120mg/dl then : 1 (true) else : 0 (false)
+* Resting ECG : 0 = normal 1 = having ST-T wave abnormality 2 = left ventricular hyperthrophy
+* Max heart rate achieved : displays the max heart rate achieved by an individual.
+* Exercise induced angina : 1 = yes 0 = no
+* ST depression induced by exercise relative to rest : displays the value which is integer or float.
+* Peak exercise ST segment : 1 = upsloping 2 = flat 3 = downsloping
+* Number of major vessels (0-3) colored by flourosopy : displays the value as integer or float.
+* Thal : displays the thalassemia : 3 = normal 6 = fixed defect 7 = reversable defect
+* Diagnosis of heart disease : Displays whether the individual is suffering from heart disease or not : __0 = absence 1,2,3,4 = present.__
 ## Prerequisites
 There are absolutely no prerequisites for the Nikola AI service.
 As for the CardioNosis, the user requires to know how to use Python executable files. Basic knowledge of Python would be highly useful though. A good start for learning python is [learnpython.org](https://www.learnpython.org/)
