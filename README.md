@@ -39,9 +39,9 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 ## Installation
 ### Setting up our two services :computer: :
 * #### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
- 
+ `git clone github.com/pranavdhawan/SyMole.ai`
   You can watch the video tutorial to use our Python executable file.
-  ##### YouTube link : 
+  ##### YouTube link : [Learn to use CardioNosis' Python file ]
 * #### For AI Therapist ( Symole.ai Nikola :zap: ) :-
 
 
