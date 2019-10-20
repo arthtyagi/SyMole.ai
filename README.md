@@ -56,9 +56,12 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 
 * #### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
  
-  You can watch the video tutorial to use our Python executable file.
-
-  ##### YouTube link : 
+  __You can watch the video tutorial to use our Python executable file.__
+  * `git clone https://www.github.com/pranavdhawan/SyMole.ai`
+  * Now open terminal and type : `spyder`, you need to have Spyder or any other Python IDE installed. IDLE works too.
+  
+ 
+  ##### YouTube link : [Learn to use Python file in Spyder](https://www.youtube.com/watch?v=9v-Rx-xiN70&feature=youtu.be)
 
 
 * #### For AI Therapist ( Symole.ai Nikola :zap: ) :-
