@@ -9,8 +9,6 @@ from sklearn.metrics import confusion_matrix
 def train_model():
     data = pd.read_csv("heart.csv")
 
-    # Data types are all integers or floats so we don't have to convert any of them.
-
     features = data[['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope',
                      'ca', 'thal']]
     labels = data['target']
@@ -106,8 +104,8 @@ if __name__ == '__main__':
             features = np.reshape(features, (1, -1))
             prediction = model.predict(features)
             if prediction[0] == 1:
-                print("We can say with approximately 84.67% confidence that you do have heart disease.\n")
+                print("We can say with approximately 85% confidence that you do have heart disease.\n")
             else:
-                print("We can say with approximately 84.67% confidence that you don't have heart disease.\n")
+                print("We can say with approximately 85% confidence that you don't have heart disease.\n")
         else:
             break
