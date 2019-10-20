@@ -28,10 +28,11 @@ SyMole.ai consists of two applications.
 
 ### Nikola
 Nikola is going to provide counselling to people :
-* In Anxiety
-* In Narcissist Personality Disorder
-* In Depression
- with bad communication skills but possessing a  will  to  improve them if provided with general emotional support and consolation.
+* In Anxiety,
+* In Narcissist Personality Disorder,
+* In Depression,
+  
+with bad communication skills but possessing a  will  to  improve them if provided with general emotional support and consolation.
  
 
 ### CardioNosis
