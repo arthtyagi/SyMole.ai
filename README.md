@@ -61,9 +61,14 @@ As for the CardioNosis, the user requires to know how to use Python executable f
 ### Setting up our two services :computer: :
 * #### For Heart Disease Predictor ( SyMole.ai CardioNosis :heart: ) :-
  `git clone github.com/pranavdhawan/SyMole.ai`
+ Open the CardioNosis folder and head over to the Python file.
   You can watch the video tutorial to use our Python executable file.
   ##### YouTube link : [Learn to use CardioNosis' Python file ](https://www.youtube.com/watch?v=9v-Rx-xiN70&t=11s)
+  
 * #### For AI Therapist ( Symole.ai Nikola :zap: ) :-
+Once you have cloned our repository, head over to **index.html**.
+
+Run it in your web browser, it's a locally hosted model.
 
 
 
