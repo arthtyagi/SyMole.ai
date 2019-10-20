@@ -25,7 +25,7 @@ The AI Therapist is designed for people suffering with mental health disorders l
 * Diagnosis of heart disease : Displays whether the individual is suffering from heart disease or not : __0 = absence 1,2,3,4 = present.__
 ## What does SyMole.ai do?
 SyMole.ai consists of two applications.
-#####CardioNosis
+
 ##### CardioNosis
 Nikola is going to provide counselling to people :
 * In Anxiety
