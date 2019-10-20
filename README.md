@@ -31,8 +31,8 @@ Nikola is going to provide counselling to people :
 * In Anxiety
 * In Narcissist Personality Disorder
 * In Depression
-* With bad communication skills but the will to improve them
-with general emotional support and consolation. 
+ with bad communication skills but possessing a  will  to  improve them if provided with general emotional support and consolation.
+ 
 
 ### CardioNosis
 The heart disease predictor which will provide patient analysis and results of a health condition test for cardiovascular diseases through the patient's Health Data. This will be in the format of a Python Executable File. This Machine Learning Model will accept patient reports like Age, Sex, Max. Blood Pressure, etc.
