@@ -70,6 +70,11 @@ Once you have cloned our repository, head over to **index.html**.
 
 Run it in your web browser, it's a locally hosted model.
 
+## Dependencies
+* https://www.kaggle.com/ronitf/heart-disease-uci
+* ELIZA Framework
+
+
 
 
 
