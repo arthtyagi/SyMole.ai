@@ -74,7 +74,8 @@ Run it in your web browser, it's a locally hosted model.
 * https://www.kaggle.com/ronitf/heart-disease-uci
 * ELIZA Framework
 
-
+## License
+* [Open MIT](https://opensource.org/licenses/mit-license.php)
 
 
 
