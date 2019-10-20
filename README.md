@@ -27,7 +27,7 @@ Nikola, an AI Therapist is an essential part of this project and  is going to pr
 * In Depression
 * With bad communication skills but the will to improve them
 with general emotional support and consolation. 
- ### CardioNosis
+ ### [CardioNosis](https://github.com/pranavdhawan/SyMole.ai/tree/master/Cardionosis)
 CardioNosis is a Heart Disease Predictor which will provide patient analysis and results of a heath condition test for cardiovascular diseases through the patient's [Health Data](https://github.com/pranavdhawan/SyMole.ai/blob/master/README.md#attribute-information-for-heart-disease-predictor). This will be in the format of a Python Executable file which will be using Machine Learning Algorithms to make predictions on whether a person is suffering from Heart Disease or not. The ML Model will receive information of the patient like Age, Sex, Max. Heart Rate, Serum Cholesterol, and various other attributes and analyze the data to conclude results via __RandomForestClassifier__, one of the most sophisticated Machine Learning algorithms.
   #### Attribute Information for Heart Disease Predictor
 * Age : displays the age of the individual.
