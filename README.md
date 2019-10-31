@@ -3,7 +3,7 @@ NOTE :  We recommend our users to read this particular documentation to be able 
 ## Presented By:
 * **Arth Tyagi** ( Team Leader, CEO And ML Engineer [@arthtyagi](https://github.com/arthtyagi) )
 * **Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan))
-* **Siddharth Nikhil** ( UI Designer [Deviant Art Profile](https://www.deviantart.com/siddkid) )
+* **Siddharth Nikhil** ( UI Designer [Deviant Art Profile](https://www.deviantart.com/siddkid) ) [@siddnikh](https://github.com/siddnikh)
 ## Description 
 This is a suite of __two__ Health Services. A **Heart Disease Predictor, CardioNosis** and an **AI Therapist, Nikola**. We believe that health and well-being are primarily the most important components of life. 
 Cardiovascular Diseases account to about 24.8% of deaths per year in India. The Heart Disease Predictor would provide such information which,if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
@@ -21,7 +21,7 @@ Nikola is going to provide counselling to people :
 with bad communication skills but possessing a  will  to  improve them if provided with general emotional support and consolation.
    
 
-### CardioNosis
+### CardioNosis 
 The heart disease predictor which will provide patient analysis and results of a health condition test for cardiovascular diseases through the patient's Health Data. This will be in the format of a Python Executable File. This Machine Learning Model will accept patient reports like Age, Sex, Max. Blood Pressure, etc.
 The Heart Disease Predictor is in a IPython Notebook format and will be using Machine Learning Algorithms to make predictions on whether a person is suffering from Heart Disease or not. The ML Model will receive information of the patient like Age, Sex, Max. Heart Rate, Serum Cholesterol, and various other attributes(given below) and analyze the data to conclude results via RandomForestClassifier, one of the most sophisticated Machine Learning algorithms.
 
