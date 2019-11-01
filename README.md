@@ -3,7 +3,7 @@ NOTE :  We recommend our users to read this particular documentation to be able 
 ## Presented By:
 * **Arth Tyagi** ( Team Leader, CEO And ML Engineer [@arthtyagi](https://github.com/arthtyagi) )
 * **Pranav Dhawan** ( Sternographer [@pranavdhawan](https://github.com/pranavdhawan))
-* **Siddharth Nikhil** ( UI Designer [Deviant Art Profile](https://www.deviantart.com/siddkid) ) [@siddnikh](https://github.com/siddnikh)
+* **Siddharth Nikhil** ( UI Designer [@siddnikh](https://github.com/siddnikh))
 ## Description 
 This is a suite of __two__ Health Services. A **Heart Disease Predictor, CardioNosis** and an **AI Therapist, Nikola**. We believe that health and well-being are primarily the most important components of life. 
 Cardiovascular Diseases account to about 24.8% of deaths per year in India. The Heart Disease Predictor would provide such information which,if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
